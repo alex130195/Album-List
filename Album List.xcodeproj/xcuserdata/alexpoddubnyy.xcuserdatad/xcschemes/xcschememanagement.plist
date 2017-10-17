@@ -7,7 +7,25 @@
 		<key>Album List.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4340813C1F8E728B00633DCA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>434081501F8E728B00633DCA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4340815B1F8E728B00633DCA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
